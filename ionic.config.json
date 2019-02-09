@@ -1,6 +1,8 @@
 {
   "name": "hello-world",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "b50b54f4"
 }
